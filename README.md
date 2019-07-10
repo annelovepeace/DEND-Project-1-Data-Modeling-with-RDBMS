@@ -25,7 +25,7 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
     > fact table: songplays<br>
     > dimension tables: users, songs, artists, time
     <li><strong>buidling ETL pipeline</strong> with <em>Python</em></li>
-    > write an ETL pipeline that transfers data from files in two local directories into these tables above in Postgres
+    > write an ETL pipeline that transfers data from files in two local directories into these tables above in Postgres <br>
     > get and read song and log files and insert records into fact and dimension tables<br>
     > user table has duplicates that same user_id having different level (free/paid), used ON CONFLICT DO UPDATE to leave the unique records
 </ol>
