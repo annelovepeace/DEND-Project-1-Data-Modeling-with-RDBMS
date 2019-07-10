@@ -61,10 +61,10 @@ In addition to the data files, the project workspace includes six files:
 1. songplays table
 ![](screenshots/songplays.png)
 2. songs table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/songs.png)     
+![](screenshots/songs.png)     
 3. users table <br>
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/users.png)
+![](screenshots/users.png)
 4. artists table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/artists.png)
+![](screenshots/artists.png)
 5. time table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/time.png)
+![](screenshots/time.png)
