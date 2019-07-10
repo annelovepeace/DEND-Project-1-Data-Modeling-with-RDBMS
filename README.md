@@ -15,9 +15,8 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
     > below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 </ol>
 
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/log-data.png)
+![](screenshots/log-data.png)
     
-
 ### Tasks
 <ol>
     <li><strong>data modeling</strong> with <em>PostgreSQL</em></li>
