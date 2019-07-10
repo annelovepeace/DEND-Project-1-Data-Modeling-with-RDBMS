@@ -62,6 +62,7 @@ In addition to the data files, the project workspace includes six files:
 ![](screenshots/songplays.png)
 
 2. songs table<br>
+
 ![](screenshots/songs.png)     
 
 3. users table<br>
