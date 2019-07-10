@@ -58,13 +58,17 @@ In addition to the data files, the project workspace includes six files:
 ---
 # Results
 
-1. songplays table <br>
+1. songplays table<br>
 ![](screenshots/songplays.png)
-2. songs table <br>
+
+2. songs table<br>
 ![](screenshots/songs.png)     
-3. users table <br>
+
+3. users table<br>
 ![](screenshots/users.png)
-4. artists table <br>
+
+4. artists table<br>
 ![](screenshots/artists.png)
-5. time table <br>
+
+5. time table<br>
 ![](screenshots/time.png)
