@@ -15,9 +15,8 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
     > below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
 </ol>
 
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/log-data.png)
+   ![](screenshots/log-data.png)
     
-
 ### Tasks
 <ol>
     <li><strong>data modeling</strong> with <em>PostgreSQL</em></li>
@@ -25,7 +24,7 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
     > fact table: songplays<br>
     > dimension tables: users, songs, artists, time
     <li><strong>buidling ETL pipeline</strong> with <em>Python</em></li>
-    > write an ETL pipeline that transfers data from files in two local directories into these tables above in Postgres
+    > write an ETL pipeline that transfers data from files in two local directories into these tables above in Postgres <br>
     > get and read song and log files and insert records into fact and dimension tables<br>
     > user table has duplicates that same user_id having different level (free/paid), used ON CONFLICT DO UPDATE to leave the unique records
 </ol>
@@ -33,12 +32,12 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
 ---
 # To run the Python scripts
 <ol>
-    <li>Click <em>File -> New -> Console</em> at top menu bar</li>
-    <li>Select kernel <em>Python3</em></li>
-    <li>Type <code>'%run create_tables.py'<\code> in the console cell</li>
-    <li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
-    <li>Type <code>'%run etl.py'<\code> in the console cell</li>
-    <li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
+<li>Click <em>File -> New -> Console</em> at top menu bar</li>
+<li>Select kernel <em>Python3</em></li>
+<li>Type '%run create_tables.py' in the console cell</li>
+<li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
+<li>Type '%run etl.py' in the console cell</li>
+<li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
 </ol>
 
         
@@ -59,12 +58,23 @@ In addition to the data files, the project workspace includes six files:
 # Results
 
 1. songplays table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/songplays.png)
+
+![](screenshots/songplays.png)
+
 2. songs table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/songs.png)     
-3. users table <br>
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/users.png)
+
+![](screenshots/songs.png)     
+
+3. users table
+
+![](screenshots/users.png)
+
 4. artists table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/artists.png)
+
+![](screenshots/artists.png)
+
 5. time table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/time.png)
+
+![](screenshots/time.png)
+
+
