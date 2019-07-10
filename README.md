@@ -59,7 +59,7 @@ In addition to the data files, the project workspace includes six files:
 # Results
 
 1. songplays table
-![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/songplays.png)
+![](screenshots/songplays.png)
 2. songs table
 ![](https://r766469c826263xjupyterllyjhwqkl.udacity-student-workspaces.com/files/screenshots/songs.png)     
 3. users table <br>
