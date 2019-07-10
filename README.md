@@ -33,12 +33,12 @@ This project is to help a startup called <strong>Sparkify</strong> to understand
 ---
 # To run the Python scripts
 <ol>
-    <li>Click <em>File -> New -> Console</em> at top menu bar</li>
-    <li>Select kernel <em>Python3</em></li>
-    <li>Type <code>'%run create_tables.py'<\code> in the console cell</li>
-    <li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
-    <li>Type <code>'%run etl.py'<\code> in the console cell</li>
-    <li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
+<li>Click <em>File -> New -> Console</em> at top menu bar</li>
+<li>Select kernel <em>Python3</em></li>
+<li>Type <code>'%run create_tables.py'<\code> in the console cell</li>
+<li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
+<li>Type <code>'%run etl.py'<\code> in the console cell</li>
+<li>Click <em>Run -> Run selected cell</em> at top menu bar</li>
 </ol>
 
         
